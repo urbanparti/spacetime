@@ -1,2 +1,2 @@
 # spacetime
-space time markets for fluid exchange of property (see wiki)
+space time markets for fluid exchange (see wiki)
